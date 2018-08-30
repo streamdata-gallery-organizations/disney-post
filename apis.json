@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Disney Post",
+	"description": "This is a repository of disney post APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/disney-post.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://disney-post.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Disney Post",
+			"x-api-slug": "disney-post",
+			"description": "The mission of the Walt Disney Company is to be one of the worlds leading producers and providers of entertainment and information.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2692-disney-post.jpg",
+			"humanURL": "http://thewaltdisneycompany.com/",
+			"baseURL": "https:///",
+			"tags": "Disney Post",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/disney-post/master/_listings/disney-post/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Disney Post",
+	"include": [
+		{
+			"name": "Disney Post",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/disney-post/master/_listings/disney-post/apis.yaml"
+		}
+	]
+}
